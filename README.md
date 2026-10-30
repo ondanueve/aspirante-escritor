@@ -1,21 +1,29 @@
 # Aspirante a Escritor
 
-Simulador realista de la vida de un aspirante a escritor que evoluciona hacia profesional.
+Simulador profundo de la vida y carrera de un escritor, desde aspirante hasta profesional. Incluye desarrollo personal, industria editorial realista, contratos, derechos y el costo emocional de escribir.
 
 ## Cómo jugar
 
-1. Clona o descarga el repo.
-2. Abre `index.html` en tu navegador.
-3. O activa GitHub Pages en Settings → Pages (source: main branch / root).
+Abre `index.html` en el navegador o activa GitHub Pages (Settings → Pages → main / root).
 
-## Características
+## Capas principales
 
-- Forma tu estilo y habilidades (narrativa, estilo, investigación...)
-- Escribe cuentos y novelas, participando de concursos y enviando a revistas/editoriales
-- Viaja a presentaciones, conferencias o vacaciones para ganar inspiración
-- Construye tu biblioteca personal que te da experiencia e ideas
-- Negocia contratos, derechos de traducción y audiovisuales
-- Progresión realista desde amateur rechazado hasta autor publicado
-- Guardado automático en localStorage
+### Carrera literaria
+- Escribir cuentos y novelas (calidad depende de habilidades, inspiración, biblioteca, estado mental y disciplina).
+- Concursos, revistas y editoriales con tasas de rechazo realistas.
+- Agente literario (difícil de conseguir, cambia todo).
+- Contratos: anticipos, regalías, derechos de traducción y audiovisuales.
+- Presentaciones, ferias, residencias.
 
-¡Construye tu carrera literaria!
+### Desarrollo personal
+- Bienestar / salud mental (afecta inspiración y riesgo de burnout).
+- Disciplina y hábitos de escritura.
+- Confianza vs. síndrome del impostor.
+- Relaciones y red (energía social, networking).
+- Eventos de vida: bloqueos, éxitos que distorsionan, crisis, momentos de claridad.
+
+### Biblioteca e inspiración
+- Libros que dan bonus específicos y abren ideas.
+- Viajes (vacaciones, conferencias, residencias) con efectos diferentes.
+
+Guardado automático en localStorage. Progresión lenta y realista: el camino es largo, con rechazos, duda y ocasionales victorias que lo cambian todo.
